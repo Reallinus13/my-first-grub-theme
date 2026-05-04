@@ -1,2 +1,10 @@
-# my-first-grub-theme
-This is my first GRUB Theme please dont hate it i crated it with a free photo editor
+# My Custom GRUB Theme
+
+This is my first GRUB theme focused on CachyOS, Arch, and Ubuntu.
+
+## Installation
+
+``bash``
+sudo ./install.sh
+
+Thanks for downloading my first GRUB Theme Enjoy it
